@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+.R {
+    position: absolute;
+    font-size: 250px;
+    margin-left: 400px;
+    color: red;
+}
+.R:hover {
+    color: black;
+}
+.G {
+    position: absolute;
+    font-size: 250px;
+    margin-left: 600px;
+    color: green;
+}
+.G:hover {
+    color: black;
+}
+.B {
+    position: absolute;
+    font-size: 250px;
+    margin-left: 825px;
+    color: blue;
+}
+.B:hover {
+    color: black;
+}
